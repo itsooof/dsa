@@ -4,6 +4,8 @@
 remove the duplicates in-place such that each unique element appears only once. 
 The relative order of the elements should be kept the same. 
 Then return the number of unique elements in nums.*/
+
+
 import java.util.*;
 
 public class four {
@@ -26,3 +28,7 @@ public class four {
         }
     }
 }
+
+/*Time Complexity: O(N)
+
+Space Complexity: O(1) */
