@@ -5,7 +5,7 @@
 /*Solution 1: (Brute Force) [this approach only works if there are no duplicates]
 
 import java.util.*;
-public class two{
+public class Solution{
     static private void getElements(int[] arr,int n){
         if(n==0||n==1){
             System.out.print(-1);
@@ -36,7 +36,7 @@ Space Complexity: O(1)
 
 
 import java.io.*;
-class Test
+class Solution
 {
 static private int secondSmallest(int[] arr, int n)
 {

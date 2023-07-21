@@ -21,7 +21,7 @@ public class five {
 
 import java.util.*;
 
-class five{
+class Solution{
     static void leftRotate(int[] nums,int n){
         int temp=nums[0];
         for(int i=0;i<n-1;i++){

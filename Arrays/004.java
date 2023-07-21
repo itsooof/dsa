@@ -8,7 +8,7 @@ Then return the number of unique elements in nums.*/
 
 import java.util.*;
 
-public class four {
+public class Solution {
 
     static int removeDuplicates(int[] nums){
         int i=0;

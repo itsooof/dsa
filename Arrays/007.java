@@ -1,6 +1,6 @@
 /*Move all Zeros to the end of the array */
 
-public class seven {
+public class Solution {
     public void moveZeroes(int[] nums) {
         int i = 0;
         for (final int num : nums)

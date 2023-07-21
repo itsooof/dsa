@@ -1,4 +1,6 @@
-public class eight {
+/*Linear Search*/
+
+public class Solution {
     int search(int arr[], int n, int num){
         int i;
         for(i=0;i<n;i++){
