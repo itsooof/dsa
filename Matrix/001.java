@@ -21,3 +21,6 @@ class Solution {
         
     }
 }
+/*Time complexity = O(i*j) 
+ * Space Complexity = O(1)
+*/
