@@ -8,3 +8,9 @@ Given the array nums after the rotation and an integer target, return true if ta
 
 You must decrease the overall operation steps as much as possible. '''
 
+class Solution:
+    def search(self, nums: List[int], target: int) -> bool:
+        for num in nums:
+            if num==target:
+                return True
+        return False
